@@ -2,7 +2,8 @@
 
 Este projeto é um sistema de comunicação assistiva desenvolvido para ajudar pessoas em situações de vulnerabilidade, como idosos ou pacientes com dificuldades de locomoção, a solicitarem ajuda de forma simples e intuitiva. O sistema utiliza um display OLED para exibir um menu de opções, um joystick para navegação e uma matriz de LEDs para indicar o nível de urgência.
 
-Vídeo de Demonstração:https://youtu.be/VD00E3fAeNc
+Vídeo de Demonstração:https://youtu.be/YXceuPVkP-U
+
 Vídeo de apresentação:https://youtu.be/9cm-BgUJBuU
 
 ## Funcionamento Básico do Código
